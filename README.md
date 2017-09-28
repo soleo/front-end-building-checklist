@@ -21,6 +21,7 @@
 - [ ] Works well in different break points and different length of text sizes
 - [ ] Check voice over in Safari for your feature
 - [ ] Profile in ChromeDevTool to see any performance issues
+- [ ] Check High contrast mode with color contrast analysis
 - [ ] Add unit tests to your feature
 - [ ] Add necessary documentation for future/peer developers
 
