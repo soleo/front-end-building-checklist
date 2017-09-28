@@ -24,11 +24,11 @@
 
 ## Before Deployment
 
-- [ ] Branch is synced with master
-- [ ] Possible configuration changes
+- [ ] Feature branch is synchronized with master
+- [ ] Add configuration changes
 
 ## After Deployment
 
-- [ ] Celebrate and watch what kind of impact/usage the feature going to bring.
+- [ ] 🎉 Celebrate and watch what kind of impact/usage the feature going to bring.
 
 
