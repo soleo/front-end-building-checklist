@@ -18,7 +18,9 @@
 
 - [ ] Created pull request for code review
 - [ ] Check in different browsers (Check on Chrome, FireFox, Safari, IE 11+)
+- [ ] Works well in different break points and different length of text sizes
 - [ ] Check voice over in Safari for your feature
+- [ ] Profile in ChromeDevTool to see any performance issues
 - [ ] Add unit tests to your feature
 - [ ] Add necessary documentation for future/peer developers
 
