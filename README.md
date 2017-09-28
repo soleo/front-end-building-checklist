@@ -16,6 +16,7 @@
 
 ## Before QA
 
+- [ ] Created pull request for code review
 - [ ] Check in different browsers (Check on Chrome, FireFox, Safari, IE 11+)
 - [ ] Check voice over in Safari for your feature
 - [ ] Add unit tests to your feature
