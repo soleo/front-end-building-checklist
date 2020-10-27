@@ -12,7 +12,7 @@
 - [ ] Used preferred way for layouts (grid > flexbox > absolute/relative position)
 - [ ] Consolidate similar elements or make them re-usable
 - [ ] The boy scout rule: everywhere you touched is cleaner than before
-- [ ] (SOLID)[https://en.wikipedia.org/wiki/SOLID] and (DRY)[https://en.wikipedia.org/wiki/Don%27t_repeat_yourself]?
+- [ ] [SOLID](https://en.wikipedia.org/wiki/SOLID) and [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)?
 
 ## Before Testing/QA
 
